@@ -1,5 +1,5 @@
 # MyProgBasics-smeerws
 
 <div>
-<img src="./Screenshots/WelcomeScene.png" width="250">
+<img src="./Screenshots/firstScreenshot.png" width="250">
 </div>
